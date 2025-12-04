@@ -10,7 +10,7 @@ This project analyzes real-world weather data to extract meaningful insights thr
 - **Variables**: Temperature, Rainfall, Humidity, Wind Speed, etc.
 
 ## Tools Used
-- Python 3.x
+- Python 3.16
 - Pandas (Data manipulation)
 - NumPy (Statistical computations)
 - Matplotlib (Visualization - conceptual)
